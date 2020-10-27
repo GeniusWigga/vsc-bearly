@@ -42,10 +42,11 @@ Trotz schlechter Performance Erfahrung
 - familärer Technologiestack
 - geringe Einarbeitungszeit
 - leichtgewichtig
+- performanter (keine ständige Indexierung)
 
 ---
 
-# Schattenseiten :(
+# Schattenseiten ¬_¬
 
 - nicht so ausgereift
 - Qualität der Community Tools oft mangelhaft
@@ -60,7 +61,6 @@ Trotz schlechter Performance Erfahrung
 # Killerfeatures
 
 - Command Palette
-  ![width:500px](https://code.visualstudio.com/assets/docs/getstarted/tips-and-tricks/OpenCommandPalatte.gif)
 - Settings JSON
 - Tasks
 
@@ -84,29 +84,18 @@ Highlighting: [Bracket Pair Colorizer](https://marketplace.visualstudio.com/item
 Git:
 
 - [Git Lens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Git blame, History
-  ![width:500px](https://raw.githubusercontent.com/eamodio/vscode-gitlens/master/images/docs/gitlens-preview.gif)
-
----
 
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) - Commit, Branch, etc. Übersicht
-  ![width:500px](https://raw.githubusercontent.com/mhutchie/vscode-git-graph/master/resources/demo.gif)
-
----
 
 - [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github)
-  ![width:500px](https://raw.githubusercontent.com/Microsoft/vscode-pull-request-github/master/.readme/demo.gif)
-  ![width:500px](https://raw.githubusercontent.com/Microsoft/vscode-pull-request-github/master/.readme/issueDemo.gif)
-
----
 
 - [Jira and Bitbucket (Official)](https://marketplace.visualstudio.com/items?itemName=Atlassian.atlascode)
+
+---
 
 DevOps:
 
 - [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
-  ![width:500px](https://raw.githubusercontent.com/microsoft/vscode-docker/master/resources/readme/overview.gif)
-
----
 
 IntelliSense:
 
@@ -114,18 +103,14 @@ IntelliSense:
 - [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Autovervollständigung für Pfade
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) - Intellgient Code Completion
 
+---
+
 Sync:
 
 - [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
----
-
 Scratchpad:
 
 - [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-  ![width:500px](https://quokkajs.com/assets/img/main-video.gif)
-
----  
 
 - [Scratchpads](https://marketplace.visualstudio.com/items?itemName=buenon.scratchpads)
-  ![width:500px](https://raw.githubusercontent.com/buenon/scratchpads/master/images/scratchpad_new.gif)
